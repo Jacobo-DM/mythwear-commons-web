@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mythwear · Movement Medicine Commons License</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #07090c;
+      --card: #121518;
+      --accent: #88e0d4;
+      --accent-soft: #244440;
+      --text-main: #f5f5f5;
+      --text-soft: #c9cdd4;
+      --border-soft: #28313c;
+      --ink: #f0e0c6;
+      --max-width: 860px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top left, #28313c 0, transparent 55%),
+        radial-gradient(circle at bottom right, #1c222a 0, #07090c 60%);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    }
+
+    .page {
+      width: 100%;
+      max-width: var(--max-width);
+      padding: 32px 16px 60px;
+    }
+
+    .card {
+      background: radial-gradient(circle at top, #181d23 0, #101417 55%);
+      border-radius: 18px;
+      border: 1px solid var(--border-soft);
+      padding: 30px 24px 32px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.75);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(circle at top right,
+          rgba(136, 224, 212, 0.12), transparent 55%);
+      opacity: 0.9;
+      pointer-events: none;
+    }
+
+    .card-inner { position: relative; z-index: 1; }
+
+    h1 {
+      margin-top: 0.2rem;
+      font-size: 1.9rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #ffffff;
+    }
+
+    h2 {
+      margin-top: 1.7rem;
+      font-size: 1.03rem;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    p {
+      line-height: 1.65;
+      font-size: 0.98rem;
+      color: var(--text-soft);
+      margin: 0.55rem 0 0.45rem;
+    }
+
+    ul {
+      margin: 0.35rem 0 0.5rem 1.35rem;
+      padding: 0;
+      color: var(--text-soft);
+      font-size: 0.96rem;
+    }
+
+    li { margin: 0.18rem 0; }
+
+    strong { color: #ffffff; }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 999px;
+      background: rgba(136, 224, 212, 0.08);
+      border: 1px solid rgba(136, 224, 212, 0.45);
+      color: var(--accent);
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      margin-bottom: 10px;
+    }
+
+    .badge-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 999px;
+      background: var(--accent);
+      box-shadow: 0 0 12px rgba(136, 224, 212, 0.95);
+    }
+
+    .quote {
+      margin: 1rem 0;
+      padding: 11px 14px;
+      border-left: 3px solid var(--accent);
+      background: rgba(136, 224, 212, 0.06);
+      font-style: italic;
+      color: #e2f7f3;
+    }
+
+    .license-box {
+      margin-top: 0.7rem;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: rgba(5, 7, 10, 0.65);
+      font-size: 0.9rem;
+    }
+
+    .glyph {
+      margin-top: 1.2rem;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      background: radial-gradient(circle at top,
+        rgba(240, 224, 198, 0.12), rgba(16, 18, 22, 0.95));
+      font-size: 0.9rem;
+      color: var(--ink);
+      text-align: center;
+    }
+
+    .glyph-title {
+      font-size: 0.86rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin-bottom: 0.3rem;
+      color: #f7f2e5;
+      text-align: center;
+    }
+
+    .glyph-image {
+      display: block;
+      max-width: 260px;
+      width: 100%;
+      margin: 0.45rem auto 0.4rem;
+      filter: drop-shadow(0 4px 10px rgba(0,0,0,0.7));
+      border-radius: 4px;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+
+    .spiral {
+      font-size: 2.4rem;
+      text-align: center;
+      margin-top: 2.2rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .spiral-text {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #b7cdd0;
+    }
+
+    .footer {
+      margin-top: 1.8rem;
+      font-size: 0.88rem;
+      color: #9da7b3;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      padding-top: 1rem;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page" aria-labelledby="title">
+    <section class="card">
+      <div class="card-inner">
+
+        <div class="badge">
+          <span class="badge-dot"></span>
+          Flower Road · Mythwear Commons
+        </div>
+
+        <h1 id="title">Mythwear · Movement Medicine Commons License</h1>
+
+        <h2>What Mythwear Is</h2>
+        <p>
+          Mythwear is a family of open-source garments, wraps, bands, tabi socks,
+          and small wearable tools that support grounding, regulation, and
+          movement literacy. It is made for children, elders, teachers,
+          refugees, dancers, wanderers, and anyone whose body carries stories of
+          survival or emergence.
+        </p>
+        <p>
+          Mythwear is not a brand. It is a declaration of the
+          <strong>sovereignty of the vessel</strong> — that each person’s nervous
+          system, movement language, and sensory world is worthy, whole, and
+          free.
+        </p>
+
+        <h2>Core Design Principle · Be Water</h2>
+        <p>
+          Movement remains fluid. Garments must yield before they resist.
+          Nothing in Mythwear may restrict breath, safety, or honest expression.
+        </p>
+
+        <h2>Core Design Principle · Three-Point Balance</h2>
+        <p>
+          Balance is relational. Every gesture is held by:
+        </p>
+        <ul>
+          <li><strong>Self</strong> — inner state.</li>
+          <li><strong>Other</strong> — the relationship.</li>
+          <li><strong>Context</strong> — the field or environment.</li>
+        </ul>
+
+        <h2>Structural Principle · The Nopal Body</h2>
+        <p>
+          Mythwear treats the human form as a living nopal: soft pads joined by
+          flexible hinges that expand and contract naturally. Clothing follows
+          the body’s real creases — ankles, knees, hips, spine, shoulders,
+          elbows, wrists.
+        </p>
+        <p>
+          At each <strong>joint</strong> there are opposing anchors where bands
+          may attach <em>inside</em> or <em>outside</em> the clothing. These
+          anchors support gentle band paths such as wrist-to-elbow,
+          ankle-to-calf, or hip-to-rib, teaching how force travels through the
+          body and how to redirect it safely.
+        </p>
+
+        <h2>Feet · Tabi, Jute, and the Achilles</h2>
+        <p>
+          Split-toe tabi designs enhance balance and grounded movement. A
+          jute-like woven texture underfoot offers natural friction and subtle
+          <strong>acupressure in motion</strong>. A soft band at the Achilles
+          supports safety during crouching, running, and rapid directional
+          changes.
+        </p>
+
+        <h2>Hands · Fingers, Cuffs, and Expression</h2>
+        <p>
+          The hands are primary instruments of emotional regulation. Optional
+          finger loops, cuffs, bracelets, or thumb bands may extend the flow of
+          Mythwear into the fingertips. These elements invite expression,
+          fidgeting, play, and precision. They are especially supportive for
+          <strong>neuroemergent</strong> individuals — a term used here to honor
+          sensory and cognitive emergence without pathologizing or diminishing
+          anyone.
+        </p>
+
+        <h2>Material Principles · The Felt Sense Comes First</h2>
+        <ul>
+          <li>Organic, natural, repairable fabrics whenever possible.</li>
+          <li>Textures that soothe, ground, or awaken curiosity.</li>
+          <li>No synthetic fragrance; natural scent only if chosen.</li>
+          <li>Wearer-chosen colors, charms, beads, buttons, or dazzle.</li>
+        </ul>
+
+        <h2>Sensors and Data (Optional)</h2>
+        <ul>
+          <li>Local or ephemeral data only.</li>
+          <li>No biometric surveillance or profiling.</li>
+          <li>Sensors exist to support, never to judge.</li>
+          <li>Clear, visible, user-controlled on/off states.</li>
+        </ul>
+
+        <div class="glyph">
+          <div class="glyph-title">
+            The Mythwear Mark · Flow · Discernment · Three-Point Balance
+          </div>
+
+          <img src="mythwear-mark.png"
+               alt="Three hand-drawn Mythwear markings showing a flowing line, spiral, and three points in shifting relationship."
+               class="glyph-image" />
+
+          <p>
+            The Mythwear mark appears in three simple, hand-drawn variations.
+            Each shows a rising arc of flow returning to a spiral, held by
+            three relational points. Together they express
+            <strong>movement, discernment, and the fluid nature of balance in
+            relationship.</strong>
+          </p>
+        </div>
+
+        <h2>License · Commons, Not Commodity</h2>
+        <div class="license-box">
+          <p>
+            Mythwear is released under the
+            <strong>Creative Commons BY-SA 4.0</strong> license. You may use,
+            adapt, share, teach, and build upon Mythwear, including for income,
+            as long as derivatives remain under this license and proper credit
+            is given.
+          </p>
+          <p>
+            No entity may patent or claim exclusive ownership over Mythwear
+            designs, symbols, or principles. Mythwear belongs to the commons.
+          </p>
+          <p>
+            Full license text:
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+               target="_blank" rel="noopener">creativecommons.org/licenses/by-sa/4.0/</a>
+          </p>
+        </div>
+
+        <p class="quote">
+          Mythwear is for those who move through the world with courage,
+          tenderness, and emergence. If it helps anyone feel safer in their own
+          body, it is being used as intended.
+        </p>
+
+        <div class="spiral">🌀</div>
+        <div class="spiral-text">
+          Continuity: Active · Signature: Spiral
+        </div>
+
+        <div class="footer">
+          Released into the commons from the Flower Road · 2025<br/>
+          May these patterns continue to evolve in the hands of many makers.
+        </div>
+
+      </div>
+    </section>
+  </main>
+</body>
+</html>
