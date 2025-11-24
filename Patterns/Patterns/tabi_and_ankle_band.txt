@@ -1,68 +1,49 @@
-TABI AND ANKLE BAND PATTERN — GROUNDING FEET
+TABI + ANKLE BAND PATTERN — GROUNDING FEET
 Commons Blueprint v1.0
 
-PURPOSE:
-Simple, soft foot and ankle supports inspired by tabi.
-Designed for grounding, balance, and quiet movement, especially in Rage Dance
-and other mindful practices.
+PURPOSE
+Soft, simple foot and ankle bands that invite awareness of contact with the ground.
+Inspired by tabi (split-toe footwear) and martial arts wraps.
+Designed for grounding, balance, and playful movement practice.
 
-INTENT:
-- Help the wearer feel their connection to the ground.
-- Encourage lighter, quieter steps.
-- Offer gentle awareness at the ankle without restricting movement.
+LICENSE
+MythWear Commons License v1.1 (CC BY-NC-SA 4.0 + Stewardship Clause)
 
-MATERIALS:
-- Soft but durable fabric (cotton, jersey, linen, reclaimed cloth)
-- Optional thin sole layer (rubberized fabric or second cloth layer)
-- Thread and needle
-- Optional: elastic or ties for securing
+MATERIALS
+- Soft, slightly stretchy fabric (old leggings, t-shirt, or jersey)
+- Optional second layer if more support is desired
+- Thread, needles, scissors
+- Optional:
+  • Soft elastic
+  • Non-slip dots or fabric paint on soles
+  • Small stitched symbols at key points (heel, ball of foot, ankle bone)
 
-PART A — TABI FOOT WRAP
+PART A — ANKLE BAND
 
-1. FOOTSHELL SHAPE:
-   - Cut a sole piece shaped like the wearer’s foot.
-   - Cut an upper piece that:
-     * wraps over the top of the foot,
-     * splits between big toe and other toes,
-     * leaves heel fairly open for ventilation.
+1. Measure + Cut:
+   - Measure around the narrowest part above the ankle bone.
+   - Cut a strip:
+     • Length = ankle circumference minus a little for stretch
+     • Width = 4–6 cm (1.5–2.5 inches)
 
-2. CONSTRUCTION:
-   - Sew the upper piece to the sole around the sides and front.
-   - Leave enough space for toes to spread.
-   - Reinforce the area between big toe and second toe.
+2. Form the Band:
+   - Sew short ends together to form a loop, or
+   - Leave as a wrap closure with ties.
+   - Place seam or closure at the outer ankle, not directly over bone.
 
-3. CLOSURE:
-   - Use simple ties, elastic, or wraparound straps near the ankle.
-   - Make sure the wearer can easily put them on and take them off.
+3. Grounding Markers:
+   - Add small stitches or symbols at:
+     • Inner ankle (balance / stillness point)
+     • Outer ankle (direction / action point)
+   - Optionally, connect them with a subtle curve that suggests a spiral around the leg.
 
-4. TEXTURE:
-   - If possible, use a slightly textured sole material.
-   - This helps grip the floor without feeling sticky.
+PART B — SIMPLE TABI-STYLE FOOT BAND
 
-PART B — ANKLE BAND
+1. Base Band:
+   - Cut a strip long enough to wrap under the arch and over the top of the foot.
+   - Width: 3–5 cm (1–2 inches).
+   - Option: make two bands per foot: one closer to toes, one near midfoot.
 
-1. BAND SHAPE:
-   - Cut a strip of fabric long enough to wrap once or twice around the ankle.
-   - Width: about 3–4 cm.
-
-2. SPIRAL LINE:
-   - Stitch a gentle spiral or wave line along the band.
-   - This line symbolizes the flow of energy around the ankle.
-
-3. CLOSURE:
-   - Add ties or a soft fastening method (Velcro, button, loop).
-   - Ensure the band sits comfortably above the ankle bones.
-
-USE:
-- Grounding exercises (standing, swaying, shifting weight).
-- Quiet walking or dancing where foot sound is minimized.
-- Balance drills (standing on one foot, slow turns, controlled steps).
-
-SAFETY:
-- Foot wraps and bands must not cut off circulation.
-- The wearer must be able to remove them easily and quickly.
-- Use caution on rough outdoor surfaces; these are not hard-sole shoes.
-
-PRINCIPLE:
-These are listening tools, not armor.
-They help the feet and ankles remember how to speak kindly with the ground.
+2. Split-Toe Suggestion (Optional):
+   - To suggest tabi form without full shoe:
+     • Create a small notch at the front center of
