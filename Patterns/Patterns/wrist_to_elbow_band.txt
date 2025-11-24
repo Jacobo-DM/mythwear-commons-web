@@ -1,66 +1,74 @@
 WRIST–ELBOW BAND PATTERN — FORCE PATH TRAINER
 Commons Blueprint v1.0
 
-PURPOSE:
-A soft band linking wrist and elbow to teach alignment, awareness of tension,
-and the path of force through the arm. Used for Rage Dance foundations and
-mindful martial movement.
+PURPOSE
+A simple band that maps the path from wrist to elbow,
+teaching how force, tension, and attention travel along the forearm.
+Designed for Rage Dance, martial arts, and movement medicine.
 
-INTENT:
-- Help the wearer feel how movement travels through the arm.
-- Encourage softer, more connected motion instead of stiff or disconnected action.
-- Serve as a simple feedback tool, not a restraint.
+LICENSE
+MythWear Commons License v1.1 (CC BY-NC-SA 4.0 + Stewardship Clause)
 
-MATERIALS:
-- Soft fabric (cotton, jersey, linen) for cuffs and band
-- Optional light padding
-- Thread and needle
-- Optional: small bell or bead for sound feedback
+MATERIALS
+- Sturdy but soft fabric strip (old t-shirt, leggings, or wrap)
+  Length: from wrist crease to just below elbow, plus overlap for closure.
+  Width: 5–8 cm (2–3 inches), depending on arm size.
+- Optional inner layer for cushioning
+- Thread, needles, scissors
+- Optional:
+  • Contrasting thread for “force path” line
+  • Small knots, beads, or bumps to mark key points
+  • Simple closure (ties, snaps, or hook-and-loop)
 
-COMPONENTS:
-1. WRIST CUFF:
-   - A soft band that wraps once around the wrist.
-   - Width: about 2–3 cm.
-   - Should fit with room for two fingers under the edge.
+CORE FORM
+1. Measure:
+   - Measure from wrist crease to just below elbow.
+   - Add 4–6 cm (about 2 inches) for overlap.
 
-2. ELBOW CUFF:
-   - Sits below the elbow, around the upper forearm.
-   - Same width guidelines as the wrist cuff.
-   - Also leaves room for two fingers under the edge.
+2. Cut:
+   - Cut a rectangle to that length.
+   - Round the corners so nothing digs into the skin.
 
-3. CONNECTING BAND:
-   - A strip of fabric or cord linking the outer side of wrist cuff
-     to the outer side of elbow cuff.
-   - Slightly shorter than the distance between wrist and elbow to
-     become gently taut at full extension.
+3. Close the Band:
+   - You can:
+     • Sew into a loop that slides over the hand, or
+     • Leave it as a wrap with a closure at the outer forearm.
+   - Place any closure away from the inner wrist so it doesn’t irritate.
 
-CONSTRUCTION STEPS:
-1. CUT:
-   - Cut two rectangles for cuffs and one longer strip for the band.
+FORCE PATH MAPPING
+1. Draw the Line:
+   - With fabric flat, draw a curve from wrist area to elbow end:
+     • Inner edge = more sensitive, subtle line
+     • Outer edge = more impact, stronger line
+   - This line is the “force path.”
 
-2. FORM CUFFS:
-   - Sew each rectangle into a loop that fits comfortably around wrist and forearm.
-   - Finish edges so they are soft against the skin.
+2. Stitch or Mark:
+   - Stitch along this line with contrasting thread, or
+   - Apply braid/cord, or
+   - Use fabric paint or permanent marker.
 
-3. ATTACH BAND:
-   - Sew one end of the band to the outer side of the wrist cuff.
-   - Sew the other end to the outer side of the elbow cuff.
-   - Ensure there is a little slack so the band is not tight at rest.
+3. Landmarks:
+   - Add small knots, beads, or stitches at:
+     • Wrist flexor area (closer to palm side)
+     • Mid-forearm
+     • Just below elbow
+   - These become “checkpoints” of awareness.
 
-4. OPTIONAL SOUND MARKER:
-   - Attach a small bell or bead at the elbow cuff attachment point.
-   - This gives gentle sound feedback when movement is sharp or abrupt.
+MOVEMENT INVITATIONS
+- Ask:
+  • “Can you send a gentle wave from wrist to elbow along this path?”
+  • “What changes when the palm is up vs. down?”
+  • “Can you keep attention along the band during a punch, push, or reach?”
+- For Rage Dance:
+  • Use slow, spiraling movements first.
+  • Then faster strikes or blocks, still tracking the path.
 
-USE:
-- Slow arm extensions and retractions to feel when the band becomes taut.
-- Explore punching or pushing motions in a safe context, noticing the force path.
-- Practice moving so that the band stays soft, using breath and relaxation.
+PAIRING
+- Works well paired with:
+  • Leaf Circuit on hoodie or shirt
+  • Tabi + ankle bands
+  • Simple breath cues: inhale from wrist to elbow, exhale back down.
 
-SAFETY:
-- The band must never cut off circulation.
-- The wearer must be able to remove both cuffs independently.
-- This tool is for awareness and learning, not for restraint or control.
-
-PRINCIPLE:
-The wrist–elbow band is a reminder, not a command.
-It listens to how you move and invites you to move with more kindness and clarity.
+ACCESSIBILITY
+- Band must not be too tight. You should easily slip a finger under it.
+- For very sensitive skin, use the softest layer inside and keep the path line minimal.
